@@ -34,7 +34,7 @@ public class emotion
             System.out.println("sad");
         }
         else if (happy == sad){
-            System.out.println("neutral");
+            System.out.println("unsure");
         }
         else{
             System.out.println("none");
